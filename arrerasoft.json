@@ -2,5 +2,12 @@
     "windows":{
         "copilote":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I204-1.00/Arrera-Copilote.zip"
     },
-    "linux":{}
+    "linux":{"ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.50/ryley-linux.zip"
+    },
+    "nameFolderWindows":{
+        "copilote":{
+            "nameexe":"copilote",
+            "nameFolder":"Arrera-Copilote"
+        }
+    }
 }
