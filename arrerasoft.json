@@ -10,4 +10,11 @@
             "nameFolder":"Arrera-Copilote"
         }
     }
+    ,
+    "nameFolderLinux":{
+        "ryley":{
+            "nameexe":"ryley",
+            "nameFolder":"Ryley"
+        }
+    }
 }
