@@ -6,7 +6,7 @@
         "Info":"https://github.com/Arrera-Software/Arrera-Info/releases/download/I2024-2.00/Arrera-Info-windows.zip",
         "Documentation":"https://github.com/Arrera-Software/Arrera-Documentation/releases/download/I2024-1.05/Arrera-Documentation-windows.zip",
         "Recherche":"https://github.com/Arrera-Software/Arrera-Recherche/releases/download/I2024-2.00/Arrera-recherche-Windows.zip",
-        "Video-Download":"https://github.com/Arrera-Software/Arrera-VideoDownload/releases/download/I24-3.00/Arrera-VideoDownload-Windows.zip",
+        "Video-Download":"https://github.com/Arrera-Software/Arrera-VideoDownload/releases/download/I2024-4.00/Arrera-VideoDownload-WIndows.zip",
         "ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.55/Ryley-windows.zip"
     },
     "linux":{"ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.50/ryley-linux.zip"
@@ -37,7 +37,7 @@
             "nameFolder":"Arrera-recherche"
         },
         "video-download":{
-            "nameexe":"Arrera-VideoDownload",
+            "nameexe":"Arrera-Download",
             "nameFolder":"Arrera-VideoDownload"
         },
         "ryley":{
