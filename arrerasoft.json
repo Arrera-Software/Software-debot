@@ -2,14 +2,15 @@
     "windows":{
         "copilote":"https://github.com/Arrera-Software/Arrera-Copilote/releases/download/I204-1.00/Arrera-Copilote.zip",
         "six":"https://github.com/Arrera-Software/Six/releases/download/I2024-4.40.2/Six.zip",
-        "Interface":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2024-2.00/Arrera-Interface-Windows.zip",
+        "Interface":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2024-2.05.1/Arrera-interface-Windows.zip",
         "Info":"https://github.com/Arrera-Software/Arrera-Info/releases/download/I2024-2.00/Arrera-Info-windows.zip",
         "Documentation":"https://github.com/Arrera-Software/Arrera-Documentation/releases/download/I2024-1.05/Arrera-Documentation-windows.zip",
         "Recherche":"https://github.com/Arrera-Software/Arrera-Recherche/releases/download/I2024-2.00/Arrera-recherche-Windows.zip",
         "Video-Download":"https://github.com/Arrera-Software/Arrera-VideoDownload/releases/download/I2024-4.00/Arrera-VideoDownload-WIndows.zip",
         "ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.55/Ryley-windows.zip"
     },
-    "linux":{"ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.50/ryley-linux.zip"
+    "linux":{"ryley":"https://github.com/Arrera-Software/Ryley/releases/download/3.50/ryley-linux.zip",
+            "Interface":"https://github.com/Arrera-Software/Arrera-Interface/releases/download/I2024-2.05.1/Arrera-Interface-Linux.zip"
     },
     "nameFolderWindows":{
         "copilote":{
